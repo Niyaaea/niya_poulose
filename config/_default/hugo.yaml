@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Fast & Free Link In Bio Website (Hugo Theme) # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://Niyaaea.github.io/niya_poulose/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -39,7 +39,7 @@ imaging:
   resampleFilter: lanczos
   quality: 80
   anchor: smart
-timeout: 600000
+timeout: 60000
 taxonomies:
   author: authors
 markup:
